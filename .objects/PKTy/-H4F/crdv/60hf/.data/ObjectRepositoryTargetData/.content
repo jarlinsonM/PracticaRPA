@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lMfI5V8_T0WGv7cPpcNz2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="668, 140, 504, 584" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Barra de herramientas Ribbon' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Inicio' /&gt;&lt;uia cls='NetUIChunk' name='Estilos' /&gt;&lt;uia cls='NetUIGalleryContainer' name='Dar formato como tabla' /&gt;" Guid="2807cdc7-d127-4040-92d4-b3489ed4c277" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Informe Final.xlsx - Excel' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="92ce0ea542bc7b010be4fdabffb530ea.jpg" xmlns="">0iUi9ekk8cUaJ0gkJZ6UESQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

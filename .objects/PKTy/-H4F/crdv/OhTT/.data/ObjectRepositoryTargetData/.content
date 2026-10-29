@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="p6BIVwVmHUOAUFADl4_EZg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="668, 116, 171, 24" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia cls='MsoCommandBar' helpText='Barra de herramientas Ribbon' /&gt;&lt;uia cls='NetUIOrderedGroup' name='Inicio' /&gt;&lt;uia cls='NetUIChunk' name='Estilos' /&gt;&lt;uia automationid='FormatAsTableGallery' cls='NetUIAnchor' name='Dar formato como tabla' /&gt;" Guid="b47ff965-9e54-40bc-81b9-31dadac4fdd1" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='Informe Final.xlsx - Excel' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d6d714cad589b9af4c7ff4470a0267c8.jpg" xmlns="">0MIdoAvpMWUynl-7QARTTHA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

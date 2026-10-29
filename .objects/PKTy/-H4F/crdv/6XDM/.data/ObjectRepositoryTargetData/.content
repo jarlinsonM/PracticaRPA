@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ppw1jHpzD066WkC62GeFvQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="14, 78, 164, 16" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia cls='NetUICheckbox' name='La tabla tiene encabezados.' /&gt;" Guid="f5a657a0-3b46-4cce-982a-4f71e9fb22a3" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Crear tabla' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="45cd41fb533fe114647c8875ab0130d1.jpg" xmlns="">0VtgjBqkbxkyMktC7YPZFEg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

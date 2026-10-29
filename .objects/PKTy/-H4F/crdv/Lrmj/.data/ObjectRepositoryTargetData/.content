@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kxLLzipK0UKJfHRyz300qA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="55, 97, 75, 23" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;uia cls='NetUIButton' name='Aceptar' /&gt;" Guid="1b175467-3ce8-4ad6-a0fe-9153c19b9087" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Crear tabla' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="053e3dcdba2ab7a68e4ae5b945776bc0.jpg" xmlns="">0PLrtmg15zkGiS5NPgq0BMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

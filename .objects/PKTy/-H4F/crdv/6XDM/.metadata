@@ -1,0 +1,13 @@
+﻿{
+  "Name": "La tabla tiene encabeza…",
+  "Type": "Element",
+  "Id": "6XDM9QGbI0eHPztJcL0LAQ",
+  "Reference": "YPa1KknD-EO6aVqP7RDxhQ/6XDM9QGbI0eHPztJcL0LAQ",
+  "ParentRef": "YPa1KknD-EO6aVqP7RDxhQ/crdv0UvLAE-R0egyYNDSwg",
+  "Created": "2026-09-12T02:56:25.693508Z",
+  "Updated": "2026-09-12T02:56:25.693508Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="qT5ELeuCmUGd5fnPmRu54w" Reference="YPa1KknD-EO6aVqP7RDxhQ/crdv0UvLAE-R0egyYNDSwg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 736" Arguments="d:\monto\documents\rpa\uiphat\entrega1\salida\informe final.xlsx" ContentHash="fJxGi11dcEqSEE5qTj9wZw" FilePath="C:\Program Files\Microsoft Office\root\Office16\excel.exe" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGqSURBVFhH7Zc/SMNAFMa7itLWf6U6WDKIIKWgIoWCYFwEsZM4CMXNIoKIiyB0ERw6OIl1E4TippuCk4vF0Tg5Ck6OCg6OT17gQvhe7DXxAlL84EfTy919X+/dkTSR+JdGVrPqWM0qdcpM6yAMDvoJoYGOAJO2oJ8QGuhAAx3oJ4QGOtBAB/oJoYEONNCBfkJjxxXSkWusRw+QrtlOumZTFPr35ml403ZD/CaAmDgMPYvjlNwped+xJDr+VoDcYZnuX55c9m9OvPa5xobXztexBWBOHy6J9fH16QbiNjZm8Sf2Nx6ATdmcVb87p+WzXfeaVThaiz8As3VV91ZB/XoOg/1iC8AoY9br+5u4H3uA6+eWFyCo9orkbI4yK1OUrRRd8L6OwACq7lwCtR+4LNiPMR6ANyEvOYvrzqgw6lT4MR4g6BiqQBePt2ICowH8R86/5OpUsLiPf4zRAFHoigCRH8ep7ZIIEBZ8/xDqnRyhn+jLj1KqaMUbYGBhgnRkVqfFxJ2CfkKDS3lqx1C5ICYNA/oJ4QDToJ8QDjAN+gllK0UHBxlE/9es6/UNu4lLIFrb/iwAAAAASUVORK5CYII=" Reference="YPa1KknD-EO6aVqP7RDxhQ/crdv0UvLAE-R0egyYNDSwg" Selector="&lt;wnd app='excel.exe' cls='XLMAIN' title='Informe Final.xlsx - Excel' /&gt;" Version="V3">
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="0547bddad3c1d37ebfcfd814144fe672.jpg" xmlns="">0HFSg2UgJskmWFD3TbiEaIg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

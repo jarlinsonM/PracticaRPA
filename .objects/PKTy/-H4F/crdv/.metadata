@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Informe Final.xlsx - Excel",
+  "Type": "Screen",
+  "Id": "crdv0UvLAE-R0egyYNDSwg",
+  "Reference": "YPa1KknD-EO6aVqP7RDxhQ/crdv0UvLAE-R0egyYNDSwg",
+  "ParentRef": "YPa1KknD-EO6aVqP7RDxhQ/-H4FhWODV0ejCHGKWZDotg",
+  "Created": "2026-09-12T02:27:05.4844153Z",
+  "Updated": "2026-09-12T02:27:05.4844153Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

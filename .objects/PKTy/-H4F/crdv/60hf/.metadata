@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Menú Dar formato como t…",
+  "Type": "Element",
+  "Id": "60hfoM7z30KSk0yCQF6iHA",
+  "Reference": "YPa1KknD-EO6aVqP7RDxhQ/60hfoM7z30KSk0yCQF6iHA",
+  "ParentRef": "YPa1KknD-EO6aVqP7RDxhQ/crdv0UvLAE-R0egyYNDSwg",
+  "Created": "2026-09-12T03:05:18.8882419Z",
+  "Updated": "2026-09-12T03:05:18.8882419Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

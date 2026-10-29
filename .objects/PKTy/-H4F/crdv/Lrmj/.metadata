@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Aceptar",
+  "Type": "Element",
+  "Id": "Lrmjn-5Fj0i7ITOACZ7auA",
+  "Reference": "YPa1KknD-EO6aVqP7RDxhQ/Lrmjn-5Fj0i7ITOACZ7auA",
+  "ParentRef": "YPa1KknD-EO6aVqP7RDxhQ/crdv0UvLAE-R0egyYNDSwg",
+  "Created": "2026-09-13T00:15:55.9018547Z",
+  "Updated": "2026-09-13T00:15:55.9018547Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

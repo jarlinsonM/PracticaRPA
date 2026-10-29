@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jIvURd4ECUy9qtT8JypnHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="18, 58, 171, 13" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd aaname='Crear tabla' cls='NetUIHWND' /&gt;&lt;wnd aaname='¿Dónde están los datos de la tabla?' cls='EDTBX' /&gt;" Guid="c8eadfaa-f032-4c98-9eb9-98044f97ede5" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='NUIDialog' title='Crear tabla' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e0208069be0a52d7905701cd0e660609.jpg" xmlns="">0rhoLuS4ARkWCvUe4Wz6uVQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
